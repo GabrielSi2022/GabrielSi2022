@@ -1,4 +1,5 @@
-## Olá! sou o Gabriel Henrique!!
+## Olá! sou o Gabriel Henrique Bem vindo ao meu perfil GitHub!!
+## Trabalho como desenvolvedor web na Imédia Comunicação.
 
 📚 Atualmente estudando Javascript , React, Typescript , Tailwind-Css , Next-js 
 
