@@ -20,7 +20,7 @@
 </div>
  
  <div align="center"> 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSi2022&theme=vue-dark&hide_border=false)<br/>
+ ![]https://github-readme-streak-stats.herokuapp.com/?user=GabrielSi2022&theme=vue-dark&hide_border=false<br/>
  </div> 
   
   ##
