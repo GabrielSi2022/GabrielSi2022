@@ -19,7 +19,7 @@
   <img align="center" alt="Gabriel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
  
- <div align="center"> 
+ <div align="center style:" margin-top: 40px""> 
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSi2022&theme=vue-dark&hide_border=false"/>
  </div> 
   
