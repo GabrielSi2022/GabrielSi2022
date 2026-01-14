@@ -39,10 +39,10 @@ Utilizo meus conhecimentos em programação para criar ferramentas que auxiliam 
   
   <br>
 
-  <img src="https://raw.githubusercontent.com/GabrielSi2022/GabrielSi2022/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+  
   <img src="https://raw.githubusercontent.com/GabrielSi2022/GabrielSi2022/main/profile-summary-card-output/default/3-stats.svg" />
 </div>
----
+
 
 <div align="center">
   <a href="https://www.instagram.com/gabrielhenriquenr" target="_blank">
