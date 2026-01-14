@@ -34,12 +34,12 @@ Utilizo meus conhecimentos em programação para criar ferramentas que auxiliam 
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/GabrielSi2022">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielSi2022&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" alt="Gabriel's Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSi2022&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielSi2022&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSi2022&layout=compact&theme=dark&hide_border=true" height="180" alt="langs" />
   </a>
-</div>
+</p>
 
 ---
 
