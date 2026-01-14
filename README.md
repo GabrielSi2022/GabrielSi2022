@@ -13,8 +13,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e justiça. Atualmente, dedico minha carreira e estudos para me especializar em **Computação Forense**, com o objetivo claro de me tornar **Perito Criminal**.
 
-Utilizo meus conhecimentos em programação para criar ferramentas que auxiliam na extração e análise de evidências digitais, como o software que desenvolvi para a **Polícia Civil de Minas Gerais (PCMG)**.
-
+Utilizo meus conhecimentos em programação para criar ferramentas que auxiliam na extração e análise de evidências digitais.
 - 🔭 **Trabalhando em:** Ferramentas de Automação Forense e Análise de Dados.
 - 📚 **Estudando:** Perícia Digital, Python Avançado, Segurança da Informação e Direito.
 - 🎯 **Objetivo:** Atuar na perícia criminal combatendo crimes cibernéticos através da tecnologia.
@@ -27,26 +26,18 @@ Utilizo meus conhecimentos em programação para criar ferramentas que auxiliam 
 
 | **Frontend** | **Backend & Scripting** | **Forense & Dados** |
 |:---:|:---:|:---:|
-| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> |
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> |
 
 </div>
 
----
 
-### 🏆 Projetos em Destaque
-
-#### 🕵️‍♂️ Analisador Forense de Dados (PCMG)
-Software desktop desenvolvido em Python para auxiliar delegacias na análise, reconstrução e validação de evidências digitais (chats e mídias) extraídas de dispositivos móveis.
-> *Tecnologias: Python, Tkinter, SQLite, RegEx, Binary Search.*
-
----
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/GabrielSi2022">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSi2022&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" alt="Gabriel's Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSi2022&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielSi2022&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" alt="Gabriel's Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSi2022&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" alt="Top Langs" />
   </a>
 </div>
 
